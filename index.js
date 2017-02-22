@@ -3,6 +3,8 @@
  */
 module.exports = {
   plugins: [
+    require('babel-plugin-transform-decorators-legacy').default,
+
     // stage-1
     require("babel-plugin-transform-decorators"),
 

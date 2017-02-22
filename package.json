@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-toonew",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Babel preset for Node 7.6",
   "repository": "https://github.com/LastKing/babel-preset-toonew.git",
   "main": "index.js",
@@ -20,6 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-plugin-transform-decorators": "^6.22.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0"
   }
 }
