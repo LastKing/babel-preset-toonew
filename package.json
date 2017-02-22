@@ -1,0 +1,25 @@
+{
+  "name": "babel-preset-toonew",
+  "version": "0.0.1",
+  "description": "Babel preset for Node 7.6",
+  "repository": "https://github.com/LastKing/babel-preset-toonew.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel-preset-node7",
+    "babel-preset-toonew",
+    "babel-preset",
+    "babel",
+    "node7",
+    "es2015",
+    "es6"
+  ],
+  "author": "litaixin01@163.com",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-transform-decorators": "^6.22.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0"
+  }
+}
