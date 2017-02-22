@@ -1,1 +1,1 @@
-"# babel-preset-toonew" 
+# babel-preset-toonew
